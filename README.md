@@ -12,3 +12,6 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
+
+### Hoyt Puck Guts 3D Model
+![Hoyt Puck Guts](https://github.com/FreeSK8/Hoyt-Skate-Puck-Guts/blob/main/Docs/Hoyt-Puck-Guts.PNG)
